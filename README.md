@@ -1,5 +1,12 @@
 # TDI-Exploratory
 
+The project’s idea arises from the million-dollar question that is “can you develop a model that can beat the market?”
+I have two ideas to work on:
+* 	Predicting stock market general to avoid losses in swing traiding.
+and
+* 	Investigating the correlation of stock market trends with other interested financial areas such as house market, wholesale & retail, recreational activities, and etc.
+For predicting time series and detecting anomalies, a large pool of methods including traditional methods such as ARIMA and deep learning methods including RNNs such as different types of LSTMs would be used.
+
 
 ```
 import os
